@@ -1,5 +1,7 @@
 def position_taken?(arr)
-  if arr[index] == " "
+  if arr[index] == ""
+    true
+  elsif arr[index] == " "
     false
   end
 end
