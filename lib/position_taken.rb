@@ -1,4 +1,4 @@
-def position_taken?(arr[index])
+def position_taken?(arr)
   if arr[index] == " "
     false
   end
